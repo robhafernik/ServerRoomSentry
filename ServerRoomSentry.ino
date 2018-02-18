@@ -34,7 +34,7 @@
 #define DHT_DATA_PIN    5   // pin for temp/humidity data
 
 #define TEMP_THRESHOLD_MIN    60.0    // minimum temp threshold
-#define TEMP_THRESHOLD_MAX    65.0    // maximum temp threshold
+#define TEMP_THRESHOLD_MAX    75.0    // maximum temp threshold
 
 // wifi network to use:
 const char* ssid = "<network SSID here>";
