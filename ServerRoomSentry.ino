@@ -73,6 +73,7 @@ void setup() {
   delay(200);
 
   sendMessage(bootMessage);   // send a hello message
+}
 
 /*
  * Endless loop
